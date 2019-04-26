@@ -1,2 +1,3 @@
-# altitude-salsa
+# SALSA
 Super Awesome Ladder System for Altitude
+------
